@@ -1,0 +1,666 @@
+Transaction,Toko,date_time,Item,Harga / Unit,Quantity,Total Biaya,weekday_weekend,period_day
+1,Solo Paragon,29-04-2023 14:34,GUAVA,6626.51,10,66265.1,weekend,Afternoon
+1,Solo Paragon,29-04-2023 14:34,GUAVA,12048.2,30,361446,weekend,Afternoon
+1,Solo Paragon,29-04-2023 14:34,LOCAL RED DRAGON,22289.16,50,1114458,weekend,Afternoon
+1,Solo Paragon,29-04-2023 14:34,SEMANGKA MERAH,12048.2,200,2409640,weekend,Afternoon
+1,Solo Paragon,29-04-2023 14:34,CALIFORNIAN PAPAYA,7228.92,70,506024.4,weekend,Afternoon
+2,Magelang Armada,29-04-2023 15:00,JERUK,12048.2,25,301205,weekend,Afternoon
+2,Magelang Armada,29-04-2023 15:00,GUAVA,6626.51,10,66265.1,weekend,Afternoon
+2,Magelang Armada,29-04-2023 15:00,GUAVA,12048.2,18,216867.6,weekend,Afternoon
+2,Magelang Armada,29-04-2023 15:00,LOCAL RED DRAGON,22289.16,108,2407229,weekend,Afternoon
+2,Magelang Armada,29-04-2023 15:00,SEMANGKA MERAH,12048.2,200,2409640,weekend,Afternoon
+2,Magelang Armada,29-04-2023 15:00,CALIFORNIAN PAPAYA,7228.92,30,216867.6,weekend,Afternoon
+3,Semarang Srondol,29-04-2023 12:57,JERUK,12048.2,20,240964,weekend,Afternoon
+3,Semarang Srondol,29-04-2023 12:57,LOCAL RED DRAGON,22289.16,25,557229,weekend,Afternoon
+3,Semarang Srondol,29-04-2023 12:57,SEMANGKA MERAH,12048.2,50,602410,weekend,Afternoon
+3,Semarang Srondol,29-04-2023 12:57,CALIFORNIAN PAPAYA,7228.92,14,101204.9,weekend,Afternoon
+4,Plaza Ambarukmo,29-04-2023 14:21,GUAVA,6626.51,40,265060.4,weekend,Afternoon
+4,Plaza Ambarukmo,29-04-2023 14:21,GUAVA,12048.2,120,1445784,weekend,Afternoon
+4,Plaza Ambarukmo,29-04-2023 14:21,LOCAL RED DRAGON,22289.16,100,2228916,weekend,Afternoon
+4,Plaza Ambarukmo,29-04-2023 14:21,SEMANGKA MERAH,12048.2,250,3012050,weekend,Afternoon
+4,Plaza Ambarukmo,29-04-2023 14:21,CALIFORNIAN PAPAYA,7228.92,50,361446,weekend,Afternoon
+5,Maguwo Yogyakarta,29-04-2023 14:53,JERUK,12048.2,20,240964,weekend,Afternoon
+5,Maguwo Yogyakarta,29-04-2023 14:53,MANGO,28313.26,10,283132.6,weekend,Afternoon
+5,Maguwo Yogyakarta,29-04-2023 14:53,GUAVA,6626.51,5,33132.55,weekend,Afternoon
+5,Maguwo Yogyakarta,29-04-2023 14:53,LOCAL RED DRAGON,22289.16,40,891566.4,weekend,Afternoon
+5,Maguwo Yogyakarta,29-04-2023 14:53,SEMANGKA MERAH,12048.2,60,722892,weekend,Afternoon
+6,Carrefour Semarang,29-04-2023 15:22,JERUK,12048.2,20,240964,weekend,Afternoon
+6,Carrefour Semarang,29-04-2023 15:22,GUAVA,6626.51,10,66265.1,weekend,Afternoon
+6,Carrefour Semarang,29-04-2023 15:22,LOCAL RED DRAGON,22289.16,50,1114458,weekend,Afternoon
+6,Carrefour Semarang,29-04-2023 15:22,SEMANGKA MERAH,12048.2,195,2349399,weekend,Afternoon
+6,Carrefour Semarang,29-04-2023 15:22,CALIFORNIAN PAPAYA,7228.92,55,397590.6,weekend,Afternoon
+7,Solo Paragon,13-04-2023 14:55,JERUK,21084.34,30,632530.2,weekday,Afternoon
+7,Solo Paragon,13-04-2023 14:55,JERUK,12048.2,10,120482,weekday,Afternoon
+7,Solo Paragon,13-04-2023 14:55,GUAVA,6024.1,5,30121,weekday,Afternoon
+7,Solo Paragon,13-04-2023 14:55,GUAVA,10843.38,20,216867.6,weekday,Afternoon
+7,Solo Paragon,13-04-2023 14:55,BLEWAH,7831.33,10,78313.3,weekday,Afternoon
+7,Solo Paragon,13-04-2023 14:55,MELON,13855.43,40,554217.2,weekday,Afternoon
+8,Solo Paragon,13-04-2023 14:33,MELON,18072.29,40,722891.6,weekday,Afternoon
+8,Solo Paragon,13-04-2023 14:33,SEMANGKA MERAH,10000,150,1500000,weekday,Afternoon
+8,Solo Paragon,13-04-2023 14:33,MELON,15060.25,40,602410,weekday,Afternoon
+8,Solo Paragon,13-04-2023 14:33,CALIFORNIAN PAPAYA,7831.33,70,548193.1,weekday,Afternoon
+8,Solo Paragon,13-04-2023 14:33,JERUK,12048.2,20,240964,weekday,Afternoon
+8,Solo Paragon,13-04-2023 14:33,SEMANGKA MERAH,10000,95,950000,weekday,Afternoon
+8,Solo Paragon,13-04-2023 14:33,CALIFORNIAN PAPAYA,7831.33,85,665663.1,weekday,Afternoon
+9,Maguwo Yogyakarta,14-04-2023 14:22,JERUK,12048.2,10,120482,weekday,Afternoon
+9,Maguwo Yogyakarta,14-04-2023 14:22,MANGO,27108.44,5,135542.2,weekday,Afternoon
+9,Maguwo Yogyakarta,14-04-2023 14:22,GUAVA,6626.51,5,33132.55,weekday,Afternoon
+9,Maguwo Yogyakarta,14-04-2023 14:22,GUAVA,13253.02,15,198795.3,weekday,Afternoon
+9,Maguwo Yogyakarta,14-04-2023 14:22,MELON,14457.84,24,346988.2,weekday,Afternoon
+9,Maguwo Yogyakarta,14-04-2023 14:22,SEMANGKA MERAH,10240.97,115,1177712,weekday,Afternoon
+9,Maguwo Yogyakarta,14-04-2023 14:22,MELON,16265.07,25,406626.8,weekday,Afternoon
+10,Plaza Ambarukmo,13-04-2023 12:46,JERUK,21084.34,30,632530.2,weekday,Afternoon
+10,Plaza Ambarukmo,13-04-2023 12:46,MANGO,24096.39,29,698795.3,weekday,Afternoon
+10,Plaza Ambarukmo,13-04-2023 12:46,MANGO,24096.39,27,650602.5,weekday,Afternoon
+10,Plaza Ambarukmo,13-04-2023 12:46,GUAVA,6024.1,40,240964,weekday,Afternoon
+10,Plaza Ambarukmo,13-04-2023 12:46,GUAVA,10843.38,60,650602.8,weekday,Afternoon
+10,Plaza Ambarukmo,13-04-2023 12:46,BLEWAH,7831.33,30,234939.9,weekday,Afternoon
+10,Plaza Ambarukmo,13-04-2023 12:46,MELON,13855.43,45,623494.4,weekday,Afternoon
+10,Plaza Ambarukmo,13-04-2023 12:46,SEMANGKA MERAH,10000,195,1950000,weekday,Afternoon
+11,Transmart Telogorejo Semarang,14-04-2023 16:15,GUAVA,6024.1,10,60241,weekday,Afternoon
+11,Transmart Telogorejo Semarang,14-04-2023 16:15,MELON,13855.43,10,138554.3,weekday,Afternoon
+11,Transmart Telogorejo Semarang,14-04-2023 16:15,SEMANGKA MERAH,10000,30,300000,weekday,Afternoon
+11,Transmart Telogorejo Semarang,14-04-2023 16:15,MELON,15060.25,10,150602.5,weekday,Afternoon
+11,Transmart Telogorejo Semarang,14-04-2023 16:15,CALIFORNIAN PAPAYA,7831.33,50,391566.5,weekday,Afternoon
+11,Transmart Telogorejo Semarang,14-04-2023 16:15,MELON,13855.43,45,623494.4,weekday,Afternoon
+11,Transmart Telogorejo Semarang,14-04-2023 16:15,SEMANGKA MERAH,10000,195,1950000,weekday,Afternoon
+12,Baru Solo,06-04-2023 13:53,CTF UBI UNGU LOOSE,9400,30,282000,weekday,Afternoon
+12,Baru Solo,06-04-2023 13:53,CTF PISANG KEPOK PCS,24000,28,672000,weekday,Afternoon
+12,Baru Solo,06-04-2023 13:53,MELON,14457.84,44,636145,weekday,Afternoon
+12,Baru Solo,06-04-2023 13:53,SEMANGKA MERAH,10240.97,44,450602.7,weekday,Afternoon
+12,Baru Solo,06-04-2023 13:53,MELON,13855.43,45,623494.4,weekday,Afternoon
+12,Baru Solo,06-04-2023 13:53,SEMANGKA MERAH,10000,195,1950000,weekday,Afternoon
+13,Plaza Ambarukmo,06-04-2023 14:12,JERUK,21686.75,25,542168.8,weekday,Afternoon
+13,Plaza Ambarukmo,06-04-2023 14:12,MANGO,27108.44,20,542168.8,weekday,Afternoon
+13,Plaza Ambarukmo,06-04-2023 14:12,GUAVA,6626.51,30,198795.3,weekday,Afternoon
+13,Plaza Ambarukmo,06-04-2023 14:12,ALPUKAT MENTEGA,33132.54,33,1093374,weekday,Afternoon
+13,Plaza Ambarukmo,06-04-2023 14:12,GUAVA,13253.02,50,662651,weekday,Afternoon
+13,Plaza Ambarukmo,06-04-2023 14:12,BLEWAH,12048.2,30,361446,weekday,Afternoon
+13,Plaza Ambarukmo,06-04-2023 14:12,MELON,14457.84,48,693976.3,weekday,Afternoon
+13,Plaza Ambarukmo,06-04-2023 14:12,SEMANGKA MERAH,10240.97,195,1996989,weekday,Afternoon
+13,Plaza Ambarukmo,06-04-2023 14:12,MELON,16265.07,48,780723.4,weekday,Afternoon
+14,Semarang Srondol,07-04-2023 14:35,JERUK,12048.2,20,240964,weekday,Afternoon
+14,Semarang Srondol,07-04-2023 14:35,MEDAN SUPER CITRUS,25301.21,3,75903.63,weekday,Afternoon
+14,Semarang Srondol,07-04-2023 14:35,BLEWAH,12048.2,10,120482,weekday,Afternoon
+14,Semarang Srondol,07-04-2023 14:35,MELON,14457.84,20,289156.8,weekday,Afternoon
+14,Semarang Srondol,07-04-2023 14:35,SEMANGKA MERAH,10240.97,50,512048.5,weekday,Afternoon
+14,Semarang Srondol,07-04-2023 14:35,MELON,16265.07,20,325301.4,weekday,Afternoon
+14,Semarang Srondol,07-04-2023 14:35,SEMANGKA MERAH,10240.97,195,1996989,weekday,Afternoon
+14,Semarang Srondol,07-04-2023 14:35,MELON,16265.07,48,780723.4,weekday,Afternoon
+15,Magelang Armada,07-04-2023 16:35,JERUK,12048.2,15,180723,weekday,Afternoon
+15,Magelang Armada,07-04-2023 16:35,MANGO,27108.44,24,650602.6,weekday,Afternoon
+15,Magelang Armada,07-04-2023 16:35,GUAVA,6626.51,4,26506.04,weekday,Afternoon
+15,Magelang Armada,07-04-2023 16:35,GUAVA,13253.02,17,225301.3,weekday,Afternoon
+15,Magelang Armada,07-04-2023 16:35,BLEWAH,12048.2,15,180723,weekday,Afternoon
+15,Magelang Armada,07-04-2023 16:35,MELON,14457.84,50,722892,weekday,Afternoon
+15,Magelang Armada,07-04-2023 16:35,SEMANGKA MERAH,10240.97,50,512048.5,weekday,Afternoon
+15,Magelang Armada,07-04-2023 16:35,TIMUN,9036.15,10,90361.5,weekday,Afternoon
+15,Magelang Armada,07-04-2023 16:35,MELON,16265.07,50,813253.5,weekday,Afternoon
+16,Transmart Telogorejo Semarang,07-04-2023 13:16,JERUK,12048.2,15,180723,weekday,Afternoon
+16,Transmart Telogorejo Semarang,07-04-2023 13:16,MANGO,27108.44,25,677711,weekday,Afternoon
+16,Transmart Telogorejo Semarang,07-04-2023 13:16,DEWI STARFRUIT,12650.61,10,126506.1,weekday,Afternoon
+16,Transmart Telogorejo Semarang,07-04-2023 13:16,GUAVA,6626.51,10,66265.1,weekday,Afternoon
+16,Transmart Telogorejo Semarang,07-04-2023 13:16,BLEWAH,12048.2,15,180723,weekday,Afternoon
+16,Transmart Telogorejo Semarang,07-04-2023 13:16,SEMANGKA MERAH,10240.97,50,512048.5,weekday,Afternoon
+16,Transmart Telogorejo Semarang,07-04-2023 13:16,CALIFORNIAN PAPAYA,8433.74,40,337349.6,weekday,Afternoon
+17,Carrefour Semarang,06-04-2023 16:00,DEWI STARFRUIT,12650.61,8,101204.9,weekday,Afternoon
+17,Carrefour Semarang,06-04-2023 16:00,ALPUKAT MENTEGA,33000,30,990000,weekday,Afternoon
+17,Carrefour Semarang,06-04-2023 16:00,GUAVA,13253.02,35,463855.7,weekday,Afternoon
+17,Carrefour Semarang,06-04-2023 16:00,BLEWAH,12048.2,18,216867.6,weekday,Afternoon
+17,Carrefour Semarang,06-04-2023 16:00,MELON,14457.84,30,433735.2,weekday,Afternoon
+17,Carrefour Semarang,06-04-2023 16:00,SEMANGKA MERAH,10240.97,100,1024097,weekday,Afternoon
+17,Carrefour Semarang,06-04-2023 16:00,MELON,16265.07,30,487952.1,weekday,Afternoon
+17,Carrefour Semarang,06-04-2023 16:00,CALIFORNIAN PAPAYA,8433.74,15,126506.1,weekday,Afternoon
+18,Solo Paragon,07-04-2023 14:54,JERUK,12048.2,10,120482,weekday,Afternoon
+18,Solo Paragon,07-04-2023 14:54,APEL MALANG CURAH 7/9,36144.58,10,361445.8,weekday,Afternoon
+18,Solo Paragon,07-04-2023 14:54,DEWI STARFRUIT,12650.61,5,63253.05,weekday,Afternoon
+18,Solo Paragon,07-04-2023 14:54,GUAVA,6626.51,5,33132.55,weekday,Afternoon
+18,Solo Paragon,07-04-2023 14:54,ALPUKAT MENTEGA,33132.54,30,993976.2,weekday,Afternoon
+18,Solo Paragon,07-04-2023 14:54,GUAVA,13253.02,20,265060.4,weekday,Afternoon
+18,Solo Paragon,07-04-2023 14:54,LOCAL RED DRAGON,18674.7,40,746988,weekday,Afternoon
+19,Solo Paragon,07-04-2023 20:54,JAMBU,29518.08,15,442771.2,weekday,Night
+19,Solo Paragon,07-04-2023 20:54,BLEWAH,12048.2,10,120482,weekday,Night
+19,Solo Paragon,07-04-2023 20:54,MELON,14457.84,40,578313.6,weekday,Night
+19,Solo Paragon,07-04-2023 20:54,SEMANGKA MERAH,10240.97,200,2048194,weekday,Night
+19,Solo Paragon,07-04-2023 20:54,TIMUN,9036.15,10,90361.5,weekday,Night
+19,Solo Paragon,07-04-2023 20:54,MELON,16265.07,40,650602.8,weekday,Night
+19,Solo Paragon,07-04-2023 20:54,CALIFORNIAN PAPAYA,8433.74,70,590361.8,weekday,Night
+20,Carrefour Semarang,02-01-2023 19:59,BAYAM,19800,1,19800,weekday,Night
+20,Carrefour Semarang,02-01-2023 19:59,DAUN GINSENG,12000,1,12000,weekday,Night
+20,Carrefour Semarang,02-01-2023 19:59,SPINACH,35100,1,35100,weekday,Night
+20,Carrefour Semarang,02-01-2023 19:59,CAISIM,13200,1,13200,weekday,Night
+20,Carrefour Semarang,02-01-2023 19:59,CHINESSE KALE,35000,1,35000,weekday,Night
+21,Carrefour Semarang,02-01-2023 21:59,ASPARAGUS GREEN,87600,1,87600,weekday,Night
+21,Carrefour Semarang,02-01-2023 21:59,LETTUCE,34200,2,68400,weekday,Night
+21,Carrefour Semarang,02-01-2023 21:59,SELADA,32700,2,65400,weekday,Night
+21,Carrefour Semarang,02-01-2023 21:59,PETERSELI,75000,1,75000,weekday,Night
+21,Carrefour Semarang,02-01-2023 21:59,DAUN KUCAI,27800,1,27800,weekday,Night
+21,Carrefour Semarang,02-01-2023 21:59,PAKCHOY MINI,21400,1,21400,weekday,Night
+22,Carrefour Semarang,02-01-2023 22:59,BEETROOT,17500,2,35000,weekday,Night
+22,Carrefour Semarang,02-01-2023 22:59,LOBAK MINI,13800,1,13800,weekday,Night
+22,Carrefour Semarang,02-01-2023 22:59,LOBAK PUTIH,11800,2,23600,weekday,Night
+22,Carrefour Semarang,02-01-2023 22:59,WORTEL,15700,2,31400,weekday,Night
+22,Carrefour Semarang,02-01-2023 22:59,MUSHROOM,35400,5,177000,weekday,Night
+22,Carrefour Semarang,02-01-2023 22:59,MUSHROOM,31500,1,31500,weekday,Night
+23,Carrefour Semarang,02-01-2023 14:59,PAPRIKA,65000,1,65000,weekday,Afternoon
+23,Carrefour Semarang,02-01-2023 14:59,PAPRIKA,85000,1,85000,weekday,Afternoon
+23,Carrefour Semarang,02-01-2023 14:59,PAPRIKA,85000,1,85000,weekday,Afternoon
+23,Carrefour Semarang,02-01-2023 14:59,ZUCCINI,32000,2,64000,weekday,Afternoon
+23,Carrefour Semarang,02-01-2023 14:59,TERUNG,14800,1,14800,weekday,Afternoon
+23,Carrefour Semarang,02-01-2023 14:59,TERUNG,13000,1,13000,weekday,Afternoon
+23,Carrefour Semarang,02-01-2023 14:59,JERUK,21000,2,42000,weekday,Afternoon
+24,Carrefour Semarang,02-01-2023 15:59,TERUNG,24300,1,24300,weekday,Afternoon
+24,Carrefour Semarang,02-01-2023 15:59,ALOE VERA,25000,5,125000,weekday,Afternoon
+24,Carrefour Semarang,02-01-2023 15:59,BROKOLI,28600,5,143000,weekday,Afternoon
+24,Carrefour Semarang,02-01-2023 15:59,KAPRI,42000,1,42000,weekday,Afternoon
+24,Carrefour Semarang,02-01-2023 15:59,LEUNCA,16800,1,16800,weekday,Afternoon
+25,Carrefour Semarang,02-01-2023 18:59,TIMUN,8800,2,17600,weekday,Night
+25,Carrefour Semarang,02-01-2023 18:59,DAUN MINT,24900,1,24900,weekday,Night
+25,Carrefour Semarang,02-01-2023 18:59,SOUP,7200,4,28800,weekday,Night
+25,Carrefour Semarang,02-01-2023 18:59,SAYUR LODEH,7500,4,30000,weekday,Night
+25,Carrefour Semarang,02-01-2023 18:59,SAYUR ASEM,7500,4,30000,weekday,Night
+26,Plaza Ambarukmo,22-12-2022 12:56,JERUK,12048,40,481920,weekday,Afternoon
+26,Plaza Ambarukmo,22-12-2022 12:56,MEDAN SUPER CITRUS,24096.39,50,1204820,weekday,Afternoon
+26,Plaza Ambarukmo,22-12-2022 12:56,GUAVA,9036.15,30,271084.5,weekday,Afternoon
+26,Plaza Ambarukmo,22-12-2022 12:56,LOCAL RED DRAGON,13855.42,130,1801205,weekday,Afternoon
+27,Plaza Ambarukmo,22-12-2022 10:56,JAMBU,25301.21,50,1265061,weekday,Morning
+27,Plaza Ambarukmo,22-12-2022 10:56,MELON,19277.11,70,1349398,weekday,Morning
+27,Plaza Ambarukmo,22-12-2022 10:56,SEMANGKA MERAH,10240.96,300,3072288,weekday,Morning
+27,Plaza Ambarukmo,22-12-2022 10:56,MELON,21084.37,100,2108437,weekday,Morning
+27,Plaza Ambarukmo,22-12-2022 10:56,CALIFORNIAN PAPAYA,7229,50,361450,weekday,Morning
+28,Carrefour Semarang,22-12-2022 12:56,DAUN BAWANG BESAR,19300,1,19300,weekday,Afternoon
+28,Carrefour Semarang,22-12-2022 12:56,SELEDRI KECIL,17900,1,17900,weekday,Afternoon
+28,Carrefour Semarang,22-12-2022 12:56,PETERSELI,75000,1,75000,weekday,Afternoon
+28,Carrefour Semarang,22-12-2022 12:56,TIMUN,7600,2,15200,weekday,Afternoon
+28,Carrefour Semarang,22-12-2022 12:56,JAGUNG,9100,4,36400,weekday,Afternoon
+29,Carrefour Semarang,20-12-2022 20:16,KOL,35000,3,105000,weekday,Night
+29,Carrefour Semarang,20-12-2022 20:16,OKRA,21600,1,21600,weekday,Night
+29,Carrefour Semarang,20-12-2022 20:16,DAUN KETUMBAR,165000,1,165000,weekday,Night
+29,Carrefour Semarang,20-12-2022 20:16,BAYAM,19800,1,19800,weekday,Night
+30,Carrefour Semarang,29-11-2022 16:47,DAUN GINSENG,12000,1,12000,weekday,Afternoon
+30,Carrefour Semarang,29-11-2022 16:47,DAUN KATUK,16500,1,8250,weekday,Afternoon
+30,Carrefour Semarang,29-11-2022 16:47,DAUN KEMANGI,25000,1,12500,weekday,Afternoon
+30,Carrefour Semarang,29-11-2022 16:47,DAUN MELINJO,39800,1,39800,weekday,Afternoon
+31,Carrefour Semarang,29-11-2022 17:47,SPINACH,35100,1,35100,weekday,Afternoon
+31,Carrefour Semarang,29-11-2022 17:47,KAILAN MINI,32000,1,32000,weekday,Afternoon
+31,Carrefour Semarang,29-11-2022 17:47,SIOMAK,16200,1,16200,weekday,Afternoon
+31,Carrefour Semarang,29-11-2022 17:47,SPINACH,4000,5,20000,weekday,Afternoon
+31,Carrefour Semarang,29-11-2022 17:47,SPINACH,3300,5,16500,weekday,Afternoon
+32,Carrefour Semarang,29-11-2022 18:47,CAISIM,3300,5,16500,weekday,Night
+32,Carrefour Semarang,29-11-2022 18:47,DAUN KACANG BY PCS,2500,2,5000,weekday,Night
+32,Carrefour Semarang,29-11-2022 18:47,GENJER,2000,3,6000,weekday,Night
+32,Carrefour Semarang,29-11-2022 18:47,DAUN SINGKONG BY PCS,2100,2,4200,weekday,Night
+32,Carrefour Semarang,29-11-2022 18:47,LETTUCE,34200,1,34200,weekday,Night
+33,Carrefour Semarang,29-11-2022 19:47,SELADA,2800,3,8400,weekday,Night
+33,Carrefour Semarang,29-11-2022 19:47,LETTUCE,26000,1,26000,weekday,Night
+33,Carrefour Semarang,29-11-2022 19:47,PETERSELI,75000,1,75000,weekday,Night
+33,Carrefour Semarang,29-11-2022 19:47,DAUN KUCAI,27800,1,27800,weekday,Night
+33,Carrefour Semarang,29-11-2022 19:47,CUCIWIS,23500,1,23500,weekday,Night
+33,Carrefour Semarang,29-11-2022 19:47,PAKCHOY MINI,21400,1,21400,weekday,Night
+34,Carrefour Semarang,29-11-2022 20:47,BEETROOT,17500,1,17500,weekday,Night
+34,Carrefour Semarang,29-11-2022 20:47,WORTEL,15700,1,15700,weekday,Night
+34,Carrefour Semarang,29-11-2022 20:47,REBUNG TAIWAN,22400,5,112000,weekday,Night
+34,Carrefour Semarang,29-11-2022 20:47,EDAMAME,16870,10,168700,weekday,Night
+34,Carrefour Semarang,29-11-2022 20:47,MUSHROOM,35400,3,106200,weekday,Night
+35,Carrefour Semarang,29-11-2022 6:47,MUSHROOM,31500,1,31500,weekday,Morning
+35,Carrefour Semarang,29-11-2022 6:47,JAMUR TIRAM PUTIH,22700,1,22700,weekday,Morning
+35,Carrefour Semarang,29-11-2022 6:47,OYONG,11900,1,11900,weekday,Morning
+35,Carrefour Semarang,29-11-2022 6:47,PARE,10800,1,10800,weekday,Morning
+35,Carrefour Semarang,29-11-2022 6:47,ZUCCINI,32000,1,32000,weekday,Morning
+35,Carrefour Semarang,29-11-2022 6:47,TERUNG,14800,1,14800,weekday,Morning
+36,Carrefour Semarang,29-11-2022 10:47,JERUK,33800,1,33800,weekday,Morning
+36,Carrefour Semarang,29-11-2022 10:47,TERUNG,24300,2,48600,weekday,Morning
+36,Carrefour Semarang,29-11-2022 10:47,PARE,10500,2,21000,weekday,Morning
+36,Carrefour Semarang,29-11-2022 10:47,LABU,22500,5,112500,weekday,Morning
+36,Carrefour Semarang,29-11-2022 10:47,SAWI,9000,5,45000,weekday,Morning
+37,Carrefour Semarang,29-11-2022 11:47,BROKOLI,28600,5,143000,weekday,Morning
+37,Carrefour Semarang,29-11-2022 11:47,KACANG MERAH KUPAS,46100,1,46100,weekday,Morning
+37,Carrefour Semarang,29-11-2022 11:47,KAPRI,42000,1,42000,weekday,Morning
+37,Carrefour Semarang,29-11-2022 11:47,UNSKIN PETAI,85700,1,85700,weekday,Morning
+37,Carrefour Semarang,29-11-2022 11:47,LEUNCA,16800,1,16800,weekday,Morning
+37,Carrefour Semarang,29-11-2022 11:47,NANGKA MUDA,28000,1,28000,weekday,Morning
+38,Carrefour Semarang,29-11-2022 12:47,OKRA,21600,1,21600,weekday,Afternoon
+38,Carrefour Semarang,29-11-2022 12:47,KOL,13900,1,13900,weekday,Afternoon
+38,Carrefour Semarang,29-11-2022 12:47,SAWI,14900,1,14900,weekday,Afternoon
+38,Carrefour Semarang,29-11-2022 12:47,RED OKRA,32000,1,32000,weekday,Afternoon
+38,Carrefour Semarang,29-11-2022 12:47,DAUN SEREH,18400,1,18400,weekday,Afternoon
+38,Carrefour Semarang,29-11-2022 12:47,DAUN MINT,24900,1,12450,weekday,Afternoon
+39,Carrefour Semarang,29-11-2022 12:22,JAHE,26000,1,26000,weekday,Afternoon
+39,Carrefour Semarang,29-11-2022 12:22,KUNYIT,10300,1,10300,weekday,Afternoon
+39,Carrefour Semarang,29-11-2022 12:22,JERUK,1500,5,7500,weekday,Afternoon
+39,Carrefour Semarang,29-11-2022 12:22,SOUP,7200,5,36000,weekday,Afternoon
+40,Magelang Armada,04-11-2022 14:21,JERUK,12048.19,20,240963.8,weekday,Afternoon
+40,Magelang Armada,04-11-2022 14:21,MANGO,15060.24,20,301204.8,weekday,Afternoon
+40,Magelang Armada,04-11-2022 14:21,MANGO,36144.57,10,361445.7,weekday,Afternoon
+40,Magelang Armada,04-11-2022 14:21,GUAVA,12048.19,40,481927.6,weekday,Afternoon
+41,Magelang Armada,04-11-2022 14:11,MATOA KG,37951.81,24,910843.4,weekday,Afternoon
+41,Magelang Armada,04-11-2022 14:11,LOCAL RED DRAGON,13253.01,54,715662.5,weekday,Afternoon
+41,Magelang Armada,04-11-2022 14:11,MELON,13855.42,40,554216.8,weekday,Afternoon
+41,Magelang Armada,04-11-2022 14:11,SEMANGKA MERAH,7228.92,70,506024.4,weekday,Afternoon
+41,Magelang Armada,04-11-2022 14:11,MELON,15060.24,30,451807.2,weekday,Afternoon
+41,Magelang Armada,04-11-2022 14:11,CALIFORNIAN PAPAYA,7228.92,20,144578.4,weekday,Afternoon
+42,Carrefour Semarang,08-11-2022 20:17,BAYAM,19800,1,19800,weekday,Night
+42,Carrefour Semarang,08-11-2022 20:17,DAUN GINSENG,12000,1,12000,weekday,Night
+42,Carrefour Semarang,08-11-2022 20:17,DAUN KATUK,16500,1,8250,weekday,Night
+42,Carrefour Semarang,08-11-2022 20:17,DAUN KEMANGI,25000,1,12500,weekday,Night
+42,Carrefour Semarang,08-11-2022 20:17,KAILAN MINI,32000,1,32000,weekday,Night
+43,Carrefour Semarang,08-11-2022 21:54,SIOMAK,16200,1,16200,weekday,Night
+43,Carrefour Semarang,08-11-2022 21:54,SPINACH,4000,5,20000,weekday,Night
+43,Carrefour Semarang,08-11-2022 21:54,SPINACH,3300,5,16500,weekday,Night
+43,Carrefour Semarang,08-11-2022 21:54,LABU,4200,3,12600,weekday,Night
+43,Carrefour Semarang,08-11-2022 21:54,CAISIM,3300,3,9900,weekday,Night
+44,Carrefour Semarang,08-11-2022 18:52,DAUN KACANG BY PCS,2500,2,5000,weekday,Night
+44,Carrefour Semarang,08-11-2022 18:52,GENJER,2000,3,6000,weekday,Night
+44,Carrefour Semarang,08-11-2022 18:52,DAUN SINGKONG BY PCS,2100,3,6300,weekday,Night
+44,Carrefour Semarang,08-11-2022 18:52,CALIFORNIAN PAPAYA,2500,2,5000,weekday,Night
+44,Carrefour Semarang,08-11-2022 18:52,DAUN KENIKIR BY PCS,2600,3,7800,weekday,Night
+45,Carrefour Semarang,08-11-2022 19:43,GENJER,1900,3,5700,weekday,Night
+45,Carrefour Semarang,08-11-2022 19:43,SELADA,2800,3,8400,weekday,Night
+45,Carrefour Semarang,08-11-2022 19:43,BEETROOT,17500,2,35000,weekday,Night
+45,Carrefour Semarang,08-11-2022 19:43,REBUNG TAIWAN,22400,5,112000,weekday,Night
+45,Carrefour Semarang,08-11-2022 19:43,PETAI,7100,5,35500,weekday,Night
+45,Carrefour Semarang,08-11-2022 19:43,MUSHROOM,31500,1,31500,weekday,Night
+46,Carrefour Semarang,08-11-2022 20:24,JAMUR TIRAM PUTIH,22700,1,22700,weekday,Night
+46,Carrefour Semarang,08-11-2022 20:24,LABU,5200,5,26000,weekday,Night
+46,Carrefour Semarang,08-11-2022 20:24,TERUNG,14800,2,29600,weekday,Night
+46,Carrefour Semarang,08-11-2022 20:24,JERUK,33800,1,33800,weekday,Night
+46,Carrefour Semarang,08-11-2022 20:24,JERUK,21000,2,42000,weekday,Night
+46,Carrefour Semarang,08-11-2022 20:24,TERUNG,24300,2,48600,weekday,Night
+47,Carrefour Semarang,08-11-2022 21:12,LABU,22500,5,112500,weekday,Night
+47,Carrefour Semarang,08-11-2022 21:12,BROKOLI,28600,3,85800,weekday,Night
+47,Carrefour Semarang,08-11-2022 21:12,KACANG MERAH KUPAS,46100,1,46100,weekday,Night
+47,Carrefour Semarang,08-11-2022 21:12,KAPRI,42000,1,42000,weekday,Night
+47,Carrefour Semarang,08-11-2022 21:12,UNSKIN PETAI,85700,1,85700,weekday,Night
+47,Carrefour Semarang,08-11-2022 21:12,LEUNCA,16800,1,16800,weekday,Night
+47,Carrefour Semarang,08-11-2022 21:26,MELINJO,28400,1,28400,weekday,Night
+48,Carrefour Semarang,08-11-2022 21:26,NANGKA MUDA,28000,1,28000,weekday,Night
+48,Carrefour Semarang,08-11-2022 21:26,OKRA,21600,2,43200,weekday,Night
+48,Carrefour Semarang,08-11-2022 21:26,TERONG BELANDA,20000,1,20000,weekday,Night
+48,Carrefour Semarang,08-11-2022 21:26,KOL,13900,1,13900,weekday,Night
+49,Carrefour Semarang,08-11-2022 22:06,SAWI,14900,1,14900,weekday,Night
+49,Carrefour Semarang,08-11-2022 22:06,RED OKRA,32000,2,64000,weekday,Night
+49,Carrefour Semarang,08-11-2022 22:06,DAUN MINT,24900,1,12450,weekday,Night
+49,Carrefour Semarang,08-11-2022 22:06,JAHE,26000,1,26000,weekday,Night
+49,Carrefour Semarang,08-11-2022 22:06,KENCUR,29000,1,29000,weekday,Night
+50,Carrefour Semarang,08-11-2022 20:30,TEMULAWAK,10200,2,20400,weekday,Night
+50,Carrefour Semarang,08-11-2022 20:30,TEMUKUNCI,10200,1,10200,weekday,Night
+50,Carrefour Semarang,08-11-2022 20:30,SOUP,7200,5,36000,weekday,Night
+50,Carrefour Semarang,08-11-2022 20:30,SAYUR LODEH,7500,5,37500,weekday,Night
+50,Carrefour Semarang,08-11-2022 20:30,SAYUR ASEM,7500,5,37500,weekday,Night
+51,Carrefour Semarang,01-10-2022 17:10,BAYAM,19800,1,19800,weekend,Afternoon
+51,Carrefour Semarang,01-11-2022 17:10,DAUN GINSENG,12000,1,12000,weekday,Afternoon
+51,Carrefour Semarang,01-11-2022 17:10,DAUN KATUK,16500,1,8250,weekday,Afternoon
+51,Carrefour Semarang,01-11-2022 17:10,SIOMAK,16200,1,16200,weekday,Afternoon
+52,Carrefour Semarang,01-11-2022 18:20,SPINACH,4000,5,20000,weekday,Night
+52,Carrefour Semarang,01-11-2022 18:20,SPINACH,3300,5,16500,weekday,Night
+52,Carrefour Semarang,01-11-2022 18:20,LABU,4200,3,12600,weekday,Night
+52,Carrefour Semarang,01-11-2022 18:20,CAISIM,3300,5,16500,weekday,Night
+53,Carrefour Semarang,01-11-2022 19:30,DAUN KACANG BY PCS,2500,2,5000,weekday,Night
+53,Carrefour Semarang,01-11-2022 19:30,GENJER,2000,3,6000,weekday,Night
+53,Carrefour Semarang,01-11-2022 19:30,DAUN SINGKONG BY PCS,2100,2,4200,weekday,Night
+53,Carrefour Semarang,01-11-2022 19:30,CALIFORNIAN PAPAYA,2500,2,5000,weekday,Night
+54,Carrefour Semarang,01-11-2022 20:10,DAUN KENIKIR BY PCS,2600,3,7800,weekday,Night
+54,Carrefour Semarang,01-11-2022 20:10,GENJER,1900,3,5700,weekday,Night
+54,Carrefour Semarang,01-11-2022 20:10,LETTUCE,34200,2,68400,weekday,Night
+54,Carrefour Semarang,01-11-2022 20:10,LOBAK PUTIH,11800,1,11800,weekday,Night
+55,Carrefour Semarang,01-11-2022 19:10,REBUNG TAIWAN,22400,5,112000,weekday,Night
+55,Carrefour Semarang,01-11-2022 19:10,PETAI,7100,5,35500,weekday,Night
+55,Carrefour Semarang,01-11-2022 19:10,MUSHROOM,31500,1,31500,weekday,Night
+55,Carrefour Semarang,01-11-2022 19:10,JAMUR TIRAM PUTIH,22700,1,22700,weekday,Night
+56,Carrefour Semarang,01-11-2022 17:56,OYONG,11900,2,23800,weekday,Afternoon
+56,Carrefour Semarang,01-11-2022 17:56,PARE,10800,2,21600,weekday,Afternoon
+56,Carrefour Semarang,01-11-2022 17:56,ZUCCINI,32000,1,32000,weekday,Afternoon
+56,Carrefour Semarang,01-11-2022 17:56,TERUNG,24300,2,48600,weekday,Afternoon
+56,Carrefour Semarang,01-11-2022 17:56,PARE,10500,2,21000,weekday,Afternoon
+57,Carrefour Semarang,01-11-2022 18:56,LABU,22500,5,112500,weekday,Night
+57,Carrefour Semarang,01-11-2022 18:56,KOL,42000,2,84000,weekday,Night
+57,Carrefour Semarang,01-11-2022 18:56,BROKOLI,28600,5,143000,weekday,Night
+57,Carrefour Semarang,01-11-2022 18:56,LONG SPROUT,16300,1,16300,weekday,Night
+57,Carrefour Semarang,01-11-2022 18:56,KACANG MERAH KUPAS,46100,1,46100,weekday,Night
+58,Carrefour Semarang,01-11-2022 15:56,KAPRI,42000,1,42000,weekday,Afternoon
+58,Carrefour Semarang,01-11-2022 15:56,UNSKIN PETAI,85700,1,85700,weekday,Afternoon
+58,Carrefour Semarang,01-11-2022 15:56,LEUNCA,16800,1,16800,weekday,Afternoon
+58,Carrefour Semarang,01-11-2022 15:56,MELINJO,28400,1,28400,weekday,Afternoon
+59,Carrefour Semarang,01-11-2022 16:56,NANGKA MUDA,28000,1,28000,weekday,Afternoon
+59,Carrefour Semarang,01-11-2022 16:56,OKRA,21600,2,43200,weekday,Afternoon
+59,Carrefour Semarang,01-11-2022 16:56,DAUN SALAM,17500,1,8750,weekday,Afternoon
+59,Carrefour Semarang,01-11-2022 16:56,DAUN SEREH,18400,1,18400,weekday,Afternoon
+59,Carrefour Semarang,01-11-2022 16:56,LENGKUAS,10500,1,10500,weekday,Afternoon
+60,Carrefour Semarang,01-11-2022 17:56,JAHE,26000,1,26000,weekday,Afternoon
+60,Carrefour Semarang,01-12-2022 17:56,SOUP,7200,5,36000,weekday,Afternoon
+60,Carrefour Semarang,01-12-2022 17:56,BAYAM,19800,1,9900,######,######
+61,Carrefour Semarang,25-10-2022 16:43,DAUN GINSENG,12000,1,6000,weekday,Afternoon
+61,Carrefour Semarang,25-10-2022 16:43,DAUN KATUK,16500,1,8250,weekday,Afternoon
+61,Carrefour Semarang,25-10-2022 16:43,DAUN KEMANGI,25000,1,12500,weekday,Afternoon
+61,Carrefour Semarang,25-10-2022 16:43,SPINACH,35100,1,35100,weekday,Afternoon
+62,Carrefour Semarang,25-10-2022 17:43,KAILAN MINI,32000,1,32000,weekday,Afternoon
+62,Carrefour Semarang,25-10-2022 17:43,SIOMAK,16200,1,16200,weekday,Afternoon
+62,Carrefour Semarang,25-10-2022 17:43,SPINACH,4000,5,20000,weekday,Afternoon
+62,Carrefour Semarang,25-10-2022 17:43,SPINACH,3300,5,16500,weekday,Afternoon
+62,Carrefour Semarang,25-10-2022 17:43,LABU,4200,3,12600,weekday,Afternoon
+63,Carrefour Semarang,25-10-2022 18:43,CAISIM,3300,5,16500,weekday,Night
+63,Carrefour Semarang,25-10-2022 18:43,DAUN KACANG BY PCS,2500,3,7500,weekday,Night
+63,Carrefour Semarang,25-10-2022 18:43,GENJER,2000,3,6000,weekday,Night
+63,Carrefour Semarang,25-10-2022 18:43,DAUN SINGKONG BY PCS,2100,3,6300,weekday,Night
+63,Carrefour Semarang,25-10-2022 18:43,DAUN KENIKIR BY PCS,2600,3,7800,weekday,Night
+64,Carrefour Semarang,25-10-2022 19:43,GENJER,1900,3,5700,weekday,Night
+64,Carrefour Semarang,25-10-2022 19:43,REBUNG TAIWAN,22400,5,112000,weekday,Night
+64,Carrefour Semarang,25-10-2022 19:43,PETAI,7100,3,21300,weekday,Night
+64,Carrefour Semarang,25-10-2022 19:43,MUSHROOM,31500,1,31500,weekday,Night
+64,Carrefour Semarang,25-10-2022 19:43,JAMUR TIRAM PUTIH,22700,2,45400,weekday,Night
+64,Carrefour Semarang,25-10-2022 19:43,OYONG,11900,1,11900,weekday,Night
+65,Carrefour Semarang,25-10-2022 15:43,PARE,10800,1,10800,weekday,Afternoon
+65,Carrefour Semarang,25-10-2022 15:43,ZUCCINI,32000,1,32000,weekday,Afternoon
+65,Carrefour Semarang,25-10-2022 15:43,TERUNG,14800,2,29600,weekday,Afternoon
+65,Carrefour Semarang,25-10-2022 15:43,JERUK,33800,1,33800,weekday,Afternoon
+65,Carrefour Semarang,25-10-2022 15:43,TERUNG,24300,2,48600,weekday,Afternoon
+66,Carrefour Semarang,25-10-2022 14:43,PARE,10500,2,21000,weekday,Afternoon
+66,Carrefour Semarang,25-10-2022 14:43,LABU,22500,5,112500,weekday,Afternoon
+66,Carrefour Semarang,25-10-2022 14:43,KOL,42000,1,42000,weekday,Afternoon
+66,Carrefour Semarang,25-10-2022 14:43,KACANG MERAH KUPAS,46100,1,46100,weekday,Afternoon
+66,Carrefour Semarang,25-10-2022 14:43,KAPRI,42000,1,42000,weekday,Afternoon
+67,Carrefour Semarang,25-10-2022 14:22,UNSKIN PETAI,85700,1,85700,weekday,Afternoon
+67,Carrefour Semarang,25-10-2022 14:22,LEUNCA,16800,1,16800,weekday,Afternoon
+67,Carrefour Semarang,25-10-2022 14:22,MELINJO,28400,1,28400,weekday,Afternoon
+67,Carrefour Semarang,25-10-2022 14:22,NANGKA MUDA,28000,1,28000,weekday,Afternoon
+67,Carrefour Semarang,25-10-2022 14:22,OKRA,21600,2,43200,weekday,Afternoon
+68,Carrefour Semarang,25-10-2022 16:22,DAUN MINT,24900,1,24900,weekday,Afternoon
+68,Carrefour Semarang,25-10-2022 16:22,KUNYIT,10300,1,10300,weekday,Afternoon
+68,Carrefour Semarang,25-10-2022 16:22,JERUK,1500,5,7500,weekday,Afternoon
+68,Carrefour Semarang,25-10-2022 16:22,SOUP,7200,5,36000,weekday,Afternoon
+68,Carrefour Semarang,25-10-2022 16:22,SAYUR LODEH,7500,5,37500,weekday,Afternoon
+68,Carrefour Semarang,25-10-2022 16:22,SAYUR ASEM,7500,5,37500,weekday,Afternoon
+69,Transmart Majapahit Semarang,25-10-2022 16:43,JERUK,12048.19,20,240963.8,weekday,Afternoon
+69,Transmart Majapahit Semarang,19-10-2022 9:37,MANGO,33734.94,20,674698.8,weekday,Morning
+69,Transmart Majapahit Semarang,19-10-2022 9:37,MELON,13253.01,50,662651,weekday,Morning
+69,Transmart Majapahit Semarang,19-10-2022 9:37,MELON,16265.06,40,650602.4,weekday,Morning
+70,Transmart Majapahit Semarang,19-10-2022 9:37,SEMANGKA MERAH,7228.92,150,1084338,weekday,Morning
+70,Transmart Majapahit Semarang,19-10-2022 9:37,MELON,14457.83,50,722891.5,weekday,Morning
+70,Transmart Majapahit Semarang,19-10-2022 9:37,CALIFORNIAN PAPAYA,7831.33,20,156626.6,weekday,Morning
+71,Baru Solo,19-10-2022 9:37,DEWI STARFRUIT,15000,10,150000,weekday,Morning
+71,Baru Solo,16-10-2022 11:24,GUAVA,6024.09,10,60240.9,weekend,Morning
+71,Baru Solo,16-10-2022 11:24,MATOA KG,39156.63,2,78313.26,weekend,Morning
+71,Baru Solo,16-10-2022 11:24,LOCAL RED DRAGON,20481.93,20,409638.6,weekend,Morning
+72,Baru Solo,16-10-2022 11:24,MELON,14457.83,15,216867.5,weekend,Morning
+72,Baru Solo,16-10-2022 11:24,SEMANGKA MERAH,8433.74,50,421687,weekend,Morning
+72,Baru Solo,16-10-2022 11:24,CALIFORNIAN PAPAYA,7228.92,20,144578.4,weekend,Morning
+73,Carrefour Semarang,16-10-2022 11:24,BAYAM,19800,1,9900,weekend,Morning
+73,Carrefour Semarang,11-10-2022 14:05,DAUN KATUK,16500,1,8250,weekday,Afternoon
+73,Carrefour Semarang,11-10-2022 14:05,SPINACH,35100,1,35100,weekday,Afternoon
+73,Carrefour Semarang,11-10-2022 14:05,KAILAN MINI,32000,1,32000,weekday,Afternoon
+74,Carrefour Semarang,11-10-2022 14:45,PAKCHOY,18000,1,18000,weekday,Afternoon
+74,Carrefour Semarang,11-10-2022 14:45,SIOMAK,16200,1,16200,weekday,Afternoon
+74,Carrefour Semarang,11-10-2022 14:45,SPINACH,4000,5,20000,weekday,Afternoon
+74,Carrefour Semarang,11-10-2022 14:45,SPINACH,3300,5,16500,weekday,Afternoon
+75,Carrefour Semarang,11-10-2022 14:49,LABU,4200,3,12600,weekday,Afternoon
+75,Carrefour Semarang,11-10-2022 14:49,CAISIM,3300,5,16500,weekday,Afternoon
+75,Carrefour Semarang,11-10-2022 14:49,DAUN KACANG BY PCS,2500,3,7500,weekday,Afternoon
+75,Carrefour Semarang,11-10-2022 14:49,GENJER,2000,4,8000,weekday,Afternoon
+76,Carrefour Semarang,11-10-2022 14:59,DAUN SINGKONG BY PCS,2100,2,4200,weekday,Afternoon
+76,Carrefour Semarang,11-10-2022 14:59,CALIFORNIAN PAPAYA,2500,3,7500,weekday,Afternoon
+76,Carrefour Semarang,11-10-2022 14:59,DAUN KENIKIR BY PCS,2600,2,5200,weekday,Afternoon
+76,Carrefour Semarang,11-10-2022 14:59,GENJER,1900,5,9500,weekday,Afternoon
+76,Carrefour Semarang,11-10-2022 14:59,DAUN BAWANG BESAR,19300,1,19300,weekday,Afternoon
+77,Carrefour Semarang,11-10-2022 15:05,SELEDRI KECIL,17900,1,8950,weekday,Afternoon
+77,Carrefour Semarang,11-10-2022 15:05,CUCIWIS,23500,1,23500,weekday,Afternoon
+77,Carrefour Semarang,11-10-2022 15:05,PAKCHOY MINI,21400,1,21400,weekday,Afternoon
+77,Carrefour Semarang,11-10-2022 15:05,BEETROOT,17500,1,17500,weekday,Afternoon
+77,Carrefour Semarang,11-10-2022 15:05,LOBAK MINI,13800,1,13800,weekday,Afternoon
+78,Carrefour Semarang,11-10-2022 16:05,REBUNG TAIWAN,22400,3,67200,weekday,Afternoon
+78,Carrefour Semarang,11-10-2022 16:05,PETAI,7100,5,35500,weekday,Afternoon
+78,Carrefour Semarang,11-10-2022 16:05,MUSHROOM,31500,1,31500,weekday,Afternoon
+78,Carrefour Semarang,11-10-2022 16:05,JAMUR TIRAM PUTIH,22700,1,22700,weekday,Afternoon
+78,Carrefour Semarang,11-10-2022 16:05,LABU,8700,1,8700,weekday,Afternoon
+78,Carrefour Semarang,11-10-2022 16:05,OYONG,11900,1,11900,weekday,Afternoon
+79,Carrefour Semarang,11-10-2022 17:05,PARE,10800,1,10800,weekday,Afternoon
+79,Carrefour Semarang,11-10-2022 17:05,TERUNG,14800,1,14800,weekday,Afternoon
+79,Carrefour Semarang,11-10-2022 17:05,JERUK,21000,1,21000,weekday,Afternoon
+79,Carrefour Semarang,11-10-2022 17:05,TERUNG,24300,1,24300,weekday,Afternoon
+79,Carrefour Semarang,11-10-2022 17:05,LABU,22500,5,112500,weekday,Afternoon
+80,Carrefour Semarang,11-10-2022 18:05,KAPRI,42000,1,42000,weekday,Night
+80,Carrefour Semarang,11-10-2022 18:05,BUNCIS,21800,1,21800,weekday,Night
+80,Carrefour Semarang,11-10-2022 18:05,JAGUNG,26500,1,26500,weekday,Night
+80,Carrefour Semarang,11-10-2022 18:05,LABU,27000,1,27000,weekday,Night
+80,Carrefour Semarang,11-10-2022 18:05,LEUNCA,16800,1,16800,weekday,Night
+80,Carrefour Semarang,11-10-2022 18:05,NANGKA MUDA,28000,1,28000,weekday,Night
+80,Carrefour Semarang,11-10-2022 18:05,OKRA,21600,2,43200,weekday,Night
+81,Carrefour Semarang,11-10-2022 12:05,DAUN SEREH,18400,1,18400,weekday,Afternoon
+81,Carrefour Semarang,11-10-2022 12:05,DAUN MINT,24900,1,12450,weekday,Afternoon
+81,Carrefour Semarang,11-10-2022 12:05,SOUP,7200,10,72000,weekday,Afternoon
+81,Plaza Ambarukmo,11-10-2022 12:05,BAYAM,19800,2,39600,weekday,Afternoon
+81,Plaza Ambarukmo,11-10-2022 12:05,DAUN GINSENG,12000,2,24000,weekday,Afternoon
+82,Plaza Ambarukmo,10-10-2022 11:39,DAUN KEMANGI,25000,1,25000,weekday,Morning
+82,Plaza Ambarukmo,10-10-2022 11:39,CHINESSE KALE,35000,3,105000,weekday,Morning
+82,Plaza Ambarukmo,10-10-2022 11:39,KAILAN MINI,32000,2,64000,weekday,Morning
+82,Plaza Ambarukmo,10-10-2022 11:39,PAKCHOY,18000,3,54000,weekday,Morning
+82,Plaza Ambarukmo,10-10-2022 11:39,DAUN PISANG,12400,5,62000,weekday,Morning
+82,Plaza Ambarukmo,10-10-2022 11:39,SPINACH,4000,10,40000,weekday,Morning
+82,Plaza Ambarukmo,10-10-2022 11:39,SPINACH,3300,10,33000,weekday,Morning
+83,Plaza Ambarukmo,10-10-2022 11:29,CAISIM,3300,10,33000,weekday,Morning
+83,Plaza Ambarukmo,10-10-2022 11:29,PAKIS BY PCS,3700,10,37000,weekday,Morning
+83,Plaza Ambarukmo,10-10-2022 11:29,PAGODA,27200,3,81600,weekday,Morning
+83,Plaza Ambarukmo,10-10-2022 11:29,LETTUCE,34200,5,171000,weekday,Morning
+83,Plaza Ambarukmo,10-10-2022 11:29,SELADA,32700,2,65400,weekday,Morning
+84,Plaza Ambarukmo,10-10-2022 11:19,DAUN BAWANG BESAR,19300,2,38600,weekday,Morning
+84,Plaza Ambarukmo,10-10-2022 11:19,SELEDRI KECIL,17900,1,17900,weekday,Morning
+84,Plaza Ambarukmo,10-11-2022 11:19,PETERSELI,75000,1,75000,weekday,Morning
+84,Plaza Ambarukmo,10-12-2022 11:19,DAUN KUCAI,27800,1,27800,weekend,Morning
+84,Plaza Ambarukmo,10-10-2022 11:19,LOBAK PUTIH,11800,3,35400,######,######
+84,Plaza Ambarukmo,10-10-2022 11:19,WORTEL,15700,3,47100,######,######
+85,Plaza Ambarukmo,10-10-2022 11:10,LOOSE GRANOLA POTATO,19000,5,95000,weekday,Morning
+85,Plaza Ambarukmo,10-10-2022 11:10,WORTEL,17900,10,179000,weekday,Morning
+85,Plaza Ambarukmo,10-10-2022 11:10,BUNCIS,9600,3,28800,weekday,Morning
+85,Plaza Ambarukmo,10-10-2022 11:10,KACANG PANJANG,12900,2,25800,weekday,Morning
+85,Plaza Ambarukmo,10-10-2022 11:10,EDAMAME,16870,10,168700,weekday,Morning
+85,Plaza Ambarukmo,10-10-2022 11:10,MUSHROOM,35400,3,106200,weekday,Morning
+85,Plaza Ambarukmo,10-10-2022 11:10,MUSHROOM,31500,1,31500,weekday,Morning
+86,Plaza Ambarukmo,10-10-2022 11:09,JAMUR TIRAM PUTIH,22700,1,22700,weekday,Morning
+86,Plaza Ambarukmo,10-10-2022 11:09,PAPRIKA,65000,3,195000,weekday,Morning
+86,Plaza Ambarukmo,10-10-2022 11:09,PAPRIKA,85000,3,255000,weekday,Morning
+86,Plaza Ambarukmo,10-10-2022 11:09,PAPRIKA,85000,3,255000,weekday,Morning
+86,Plaza Ambarukmo,10-10-2022 11:09,TIMUN,7600,3,22800,weekday,Morning
+86,Plaza Ambarukmo,10-10-2022 11:09,OYONG,11900,2,23800,weekday,Morning
+87,Plaza Ambarukmo,10-10-2022 10:39,PARE,10800,2,21600,weekday,Morning
+87,Plaza Ambarukmo,10-10-2022 10:39,ZUCCINI,32000,3,96000,weekday,Morning
+87,Plaza Ambarukmo,10-10-2022 10:39,TERUNG,14800,2,29600,weekday,Morning
+87,Plaza Ambarukmo,10-10-2022 10:39,TERUNG,13000,3,39000,weekday,Morning
+87,Plaza Ambarukmo,10-10-2022 10:39,TERUNG,24300,3,72900,weekday,Morning
+87,Plaza Ambarukmo,10-10-2022 10:39,KOL,13800,5,69000,weekday,Morning
+87,Plaza Ambarukmo,10-10-2022 10:39,SAWI,9000,5,45000,weekday,Morning
+88,Plaza Ambarukmo,10-10-2022 9:39,BROKOLI,28600,6,171600,weekday,Morning
+88,Plaza Ambarukmo,10-10-2022 9:39,LONG SPROUT,16300,2,32600,weekday,Morning
+88,Plaza Ambarukmo,10-10-2022 9:39,TOGE KECAMBAH,23300,2,46600,weekday,Morning
+88,Plaza Ambarukmo,10-10-2022 9:39,KAPRI,42000,2,84000,weekday,Morning
+88,Plaza Ambarukmo,10-10-2022 9:39,JAGUNG,26500,2,53000,weekday,Morning
+88,Plaza Ambarukmo,10-10-2022 9:39,LEUNCA,16800,3,50400,weekday,Morning
+89,Plaza Ambarukmo,10-10-2022 10:19,OKRA,21600,3,64800,weekday,Morning
+89,Plaza Ambarukmo,10-10-2022 10:19,TIMUN,8800,3,26400,weekday,Morning
+89,Plaza Ambarukmo,10-10-2022 10:19,RED OKRA,32000,3,96000,weekday,Morning
+89,Plaza Ambarukmo,10-10-2022 10:19,CABE,70000,1,70000,weekday,Morning
+89,Plaza Ambarukmo,10-10-2022 10:19,KENCUR,29000,2,58000,weekday,Morning
+89,Plaza Ambarukmo,10-10-2022 10:19,JAHE MERAH,25000,5,125000,weekday,Morning
+90,Carrefour Semarang,04-10-2022 19:06,BAYAM,19800,1,19800,weekday,Night
+90,Carrefour Semarang,04-10-2022 19:06,DAUN GINSENG,12000,1,12000,weekday,Night
+90,Carrefour Semarang,04-10-2022 19:06,SPINACH,35100,1,35100,weekday,Night
+90,Carrefour Semarang,04-10-2022 19:06,KAILAN MINI,32000,1,32000,weekday,Night
+90,Carrefour Semarang,04-10-2022 19:06,PAKCHOY,18000,1,18000,weekday,Night
+90,Carrefour Semarang,04-10-2022 19:06,SPINACH,4000,10,40000,weekday,Night
+91,Carrefour Semarang,04-10-2022 19:16,SPINACH,3300,10,33000,weekday,Night
+91,Carrefour Semarang,04-10-2022 19:16,CAISIM,3300,5,16500,weekday,Night
+91,Carrefour Semarang,04-10-2022 19:16,DAUN KACANG BY PCS,2500,3,7500,weekday,Night
+91,Carrefour Semarang,04-10-2022 19:16,DAUN SINGKONG BY PCS,2100,3,6300,weekday,Night
+91,Carrefour Semarang,04-10-2022 19:16,CALIFORNIAN PAPAYA,2500,3,7500,weekday,Night
+91,Carrefour Semarang,04-10-2022 19:16,DAUN KENIKIR BY PCS,2600,3,7800,weekday,Night
+91,Carrefour Semarang,04-10-2022 19:16,LETTUCE,34200,2,68400,weekday,Night
+92,Carrefour Semarang,04-10-2022 17:06,SELADA,32700,1,32700,weekday,Afternoon
+92,Carrefour Semarang,04-10-2022 17:06,SELEDRI KECIL,17900,1,8950,weekday,Afternoon
+92,Carrefour Semarang,04-10-2022 17:06,PETERSELI,75000,1,75000,weekday,Afternoon
+92,Carrefour Semarang,04-10-2022 17:06,DAUN KUCAI,27800,1,27800,weekday,Afternoon
+92,Carrefour Semarang,04-10-2022 17:06,CUCIWIS,23500,1,11750,weekday,Afternoon
+92,Carrefour Semarang,04-10-2022 17:06,PAKCHOY MINI,21400,1,21400,weekday,Afternoon
+93,Carrefour Semarang,04-10-2022 19:46,BEETROOT,17500,1,17500,weekday,Night
+93,Carrefour Semarang,04-10-2022 19:46,LOBAK PUTIH,11800,1,11800,weekday,Night
+93,Carrefour Semarang,04-10-2022 19:46,BUNCIS,9600,1,9600,weekday,Night
+93,Carrefour Semarang,04-10-2022 19:46,KACANG PANJANG,12900,1,12900,weekday,Night
+93,Carrefour Semarang,04-10-2022 19:46,PETAI,7100,3,21300,weekday,Night
+93,Carrefour Semarang,04-10-2022 19:46,MUSHROOM,31500,1,31500,weekday,Night
+94,Carrefour Semarang,04-10-2022 19:42,JAMUR TIRAM PUTIH,22700,1,22700,weekday,Night
+94,Carrefour Semarang,04-10-2022 19:42,PAPRIKA,65000,1,65000,weekday,Night
+94,Carrefour Semarang,04-10-2022 19:42,PAPRIKA,85000,1,85000,weekday,Night
+94,Carrefour Semarang,04-10-2022 19:42,PAPRIKA,85000,1,85000,weekday,Night
+94,Carrefour Semarang,04-10-2022 19:42,TIMUN,18000,1,18000,weekday,Night
+94,Carrefour Semarang,04-10-2022 19:42,TOMAT,31000,1,31000,weekday,Night
+94,Carrefour Semarang,04-10-2022 19:42,OYONG,11900,1,11900,weekday,Night
+95,Carrefour Semarang,04-10-2022 20:26,PARE,10800,1,10800,weekday,Night
+95,Carrefour Semarang,04-10-2022 20:26,ZUCCINI,32000,1,32000,weekday,Night
+95,Carrefour Semarang,04-10-2022 20:26,TERUNG,14800,1,14800,weekday,Night
+95,Carrefour Semarang,04-10-2022 20:26,TERUNG,13000,1,13000,weekday,Night
+95,Carrefour Semarang,04-10-2022 20:26,JERUK,21000,1,21000,weekday,Night
+95,Carrefour Semarang,04-10-2022 20:26,TERUNG,24300,1,24300,weekday,Night
+96,Carrefour Semarang,04-10-2022 22:06,ALOE VERA,25000,3,75000,weekday,Night
+96,Carrefour Semarang,04-10-2022 22:06,KOL,42000,1,42000,weekday,Night
+96,Carrefour Semarang,04-10-2022 22:06,LONG SPROUT,16300,1,16300,weekday,Night
+96,Carrefour Semarang,04-10-2022 22:06,TOGE KECAMBAH,23300,1,23300,weekday,Night
+96,Carrefour Semarang,04-10-2022 22:06,KACANG MERAH KUPAS,46100,1,46100,weekday,Night
+96,Carrefour Semarang,04-10-2022 22:06,BUNCIS,21800,1,21800,weekday,Night
+97,Carrefour Semarang,04-10-2022 16:06,LABU,27000,1,27000,weekday,Afternoon
+97,Carrefour Semarang,04-10-2022 16:06,LEUNCA,16800,1,16800,weekday,Afternoon
+97,Carrefour Semarang,04-10-2022 16:06,OKRA,21600,1,21600,weekday,Afternoon
+97,Carrefour Semarang,04-10-2022 16:06,TIMUN,8800,1,8800,weekday,Afternoon
+97,Carrefour Semarang,04-10-2022 16:06,KOL,13900,1,13900,weekday,Afternoon
+97,Carrefour Semarang,04-10-2022 16:06,DAUN KETUMBAR,165000,1,82500,weekday,Afternoon
+98,Carrefour Semarang,04-10-2022 23:06,DAUN SALAM,17500,1,17500,weekday,Night
+98,Carrefour Semarang,04-10-2022 23:06,DAUN SEREH,18400,1,18400,weekday,Night
+98,Carrefour Semarang,04-10-2022 23:06,DAUN MINT,24900,1,12450,weekday,Night
+98,Carrefour Semarang,04-10-2022 23:06,LENGKUAS,10500,1,10500,weekday,Night
+98,Carrefour Semarang,04-10-2022 23:06,JERUK,1500,5,7500,weekday,Night
+98,Carrefour Semarang,04-10-2022 23:06,SOUP,7200,5,36000,weekday,Night
+99,Carrefour Semarang,27-09-2022 15:28,BAYAM,19800,1,9900,weekday,Afternoon
+99,Carrefour Semarang,27-09-2022 15:28,DAUN MELINJO,39800,1,39800,weekday,Afternoon
+99,Carrefour Semarang,27-09-2022 15:28,SPINACH,35100,1,35100,weekday,Afternoon
+99,Carrefour Semarang,27-09-2022 15:28,SIOMAK,16200,1,16200,weekday,Afternoon
+99,Carrefour Semarang,27-09-2022 15:28,SPINACH,4000,5,20000,weekday,Afternoon
+99,Carrefour Semarang,27-09-2022 15:28,SPINACH,3300,5,16500,weekday,Afternoon
+100,Carrefour Semarang,27-09-2022 14:28,LABU,4200,2,8400,weekday,Afternoon
+100,Carrefour Semarang,27-09-2022 14:28,CAISIM,3300,5,16500,weekday,Afternoon
+100,Carrefour Semarang,27-09-2022 14:28,DAUN KACANG BY PCS,2500,2,5000,weekday,Afternoon
+100,Carrefour Semarang,27-09-2022 14:28,GENJER,2000,5,10000,weekday,Afternoon
+100,Carrefour Semarang,27-09-2022 14:28,GENJER,1900,5,9500,weekday,Afternoon
+100,Carrefour Semarang,27-09-2022 14:28,SELADA,2800,3,8400,weekday,Afternoon
+100,Carrefour Semarang,27-09-2022 14:28,DAUN BAWANG BESAR,19300,1,19300,weekday,Afternoon
+100,Carrefour Semarang,27-09-2022 14:28,SELEDRI KECIL,17900,1,8950,weekday,Afternoon
+101,Carrefour Semarang,27-09-2022 16:28,DAUN KUCAI,27800,1,27800,weekday,Afternoon
+101,Carrefour Semarang,27-09-2022 16:28,CUCIWIS,23500,2,47000,weekday,Afternoon
+101,Carrefour Semarang,27-09-2022 16:28,PAKCHOY MINI,21400,2,42800,weekday,Afternoon
+101,Carrefour Semarang,27-09-2022 16:28,WORTEL,15700,1,15700,weekday,Afternoon
+101,Carrefour Semarang,27-09-2022 16:28,REBUNG TAIWAN,22400,3,67200,weekday,Afternoon
+101,Carrefour Semarang,27-09-2022 16:28,MUSHROOM,31500,1,31500,weekday,Afternoon
+101,Carrefour Semarang,27-09-2022 16:28,JAMUR TIRAM PUTIH,22700,1,22700,weekday,Afternoon
+102,Carrefour Semarang,27-09-2022 12:22,TIMUN,7600,3,22800,weekday,Afternoon
+102,Carrefour Semarang,27-09-2022 12:22,TOMAT,31000,2,62000,weekday,Afternoon
+102,Carrefour Semarang,27-09-2022 12:22,LABU,8700,1,8700,weekday,Afternoon
+102,Carrefour Semarang,27-09-2022 12:22,OYONG,11900,1,11900,weekday,Afternoon
+102,Carrefour Semarang,27-09-2022 12:22,PARE,10800,1,10800,weekday,Afternoon
+102,Carrefour Semarang,27-09-2022 12:22,JERUK,21000,2,42000,weekday,Afternoon
+102,Carrefour Semarang,27-09-2022 12:22,TERUNG,24300,1,24300,weekday,Afternoon
+103,Carrefour Semarang,27-09-2022 12:38,LABU,22500,5,112500,weekday,Afternoon
+103,Carrefour Semarang,27-09-2022 12:38,TOGE KECAMBAH,23300,1,23300,weekday,Afternoon
+103,Carrefour Semarang,27-09-2022 12:38,KACANG MERAH KUPAS,46100,1,46100,weekday,Afternoon
+103,Carrefour Semarang,27-09-2022 12:38,KAPRI,42000,1,42000,weekday,Afternoon
+103,Carrefour Semarang,27-09-2022 12:38,BUNCIS,21800,1,21800,weekday,Afternoon
+103,Carrefour Semarang,27-09-2022 12:38,LABU,27000,1,27000,weekday,Afternoon
+103,Carrefour Semarang,27-09-2022 12:38,LEUNCA,16800,1,16800,weekday,Afternoon
+104,Carrefour Semarang,27-09-2022 12:18,NANGKA MUDA,28000,1,28000,weekday,Afternoon
+104,Carrefour Semarang,27-09-2022 12:18,OKRA,21600,1,21600,weekday,Afternoon
+104,Carrefour Semarang,27-09-2022 12:18,TERONG BELANDA,20000,1,20000,weekday,Afternoon
+104,Carrefour Semarang,27-09-2022 12:18,DAUN SEREH,18400,1,18400,weekday,Afternoon
+104,Carrefour Semarang,27-09-2022 12:18,LENGKUAS,10500,1,10500,weekday,Afternoon
+104,Carrefour Semarang,27-09-2022 12:18,CABE,50000,1,50000,weekday,Afternoon
+104,Carrefour Semarang,27-09-2022 12:18,JAHE,26000,2,52000,weekday,Afternoon
+104,Carrefour Semarang,27-09-2022 12:18,SOUP,7200,5,36000,weekday,Afternoon
+105,Carrefour Semarang,20-09-2022 16:58,BAYAM,19800,1,9900,weekday,Afternoon
+105,Carrefour Semarang,20-09-2022 16:58,DAUN MELINJO,39800,1,39800,weekday,Afternoon
+105,Carrefour Semarang,20-09-2022 16:58,SPINACH,4000,5,20000,weekday,Afternoon
+105,Carrefour Semarang,20-09-2022 16:58,SPINACH,3300,5,16500,weekday,Afternoon
+105,Carrefour Semarang,20-09-2022 16:58,LABU,4200,3,12600,weekday,Afternoon
+105,Carrefour Semarang,20-09-2022 16:58,CAISIM,3300,5,16500,weekday,Afternoon
+106,Carrefour Semarang,20-09-2022 20:58,DAUN KACANG BY PCS,2500,3,7500,weekday,Night
+106,Carrefour Semarang,20-09-2022 20:58,GENJER,2000,5,10000,weekday,Night
+106,Carrefour Semarang,20-09-2022 20:58,PAKIS BY PCS,3700,3,11100,weekday,Night
+106,Carrefour Semarang,20-09-2022 20:58,GENJER,1900,5,9500,weekday,Night
+106,Carrefour Semarang,20-09-2022 20:58,SELADA,2800,3,8400,weekday,Night
+106,Carrefour Semarang,20-09-2022 20:58,SELEDRI KECIL,17900,1,8950,weekday,Night
+106,Carrefour Semarang,20-09-2022 20:58,CUCIWIS,23500,2,47000,weekday,Night
+106,Carrefour Semarang,20-09-2022 20:58,PAKCHOY MINI,21400,1,21400,weekday,Night
+107,Carrefour Semarang,20-09-2022 12:58,REBUNG TAIWAN,22400,5,112000,weekday,Afternoon
+107,Carrefour Semarang,20-09-2022 12:58,LABU,8700,1,8700,weekday,Afternoon
+107,Carrefour Semarang,20-09-2022 12:58,OYONG,11900,1,11900,weekday,Afternoon
+107,Carrefour Semarang,20-09-2022 12:58,JERUK,21000,1,21000,weekday,Afternoon
+107,Carrefour Semarang,20-09-2022 12:58,TERUNG,24300,1,24300,weekday,Afternoon
+107,Carrefour Semarang,20-09-2022 12:58,PARE,10500,2,21000,weekday,Afternoon
+108,Carrefour Semarang,20-09-2022 16:52,SAWI,9000,2,18000,weekday,Afternoon
+108,Carrefour Semarang,20-09-2022 16:52,KAPRI,42000,1,42000,weekday,Afternoon
+108,Carrefour Semarang,20-09-2022 16:52,BUNCIS,21800,1,21800,weekday,Afternoon
+108,Carrefour Semarang,20-09-2022 16:52,MELINJO,28400,1,28400,weekday,Afternoon
+108,Carrefour Semarang,20-09-2022 16:52,NANGKA MUDA,28000,1,28000,weekday,Afternoon
+108,Carrefour Semarang,20-09-2022 16:52,OKRA,21600,1,21600,weekday,Afternoon
+108,Carrefour Semarang,20-09-2022 16:52,TERONG BELANDA,20000,2,40000,weekday,Afternoon
+109,Carrefour Semarang,20-09-2022 12:28,RED OKRA,32000,1,32000,weekday,Afternoon
+109,Carrefour Semarang,20-09-2022 12:28,DAUN SEREH,18400,1,18400,weekday,Afternoon
+109,Carrefour Semarang,20-09-2022 12:28,LENGKUAS,10500,1,10500,weekday,Afternoon
+109,Carrefour Semarang,20-09-2022 12:28,JAHE,26000,1,26000,weekday,Afternoon
+109,Carrefour Semarang,20-09-2022 12:28,KENCUR,29000,1,29000,weekday,Afternoon
+109,Carrefour Semarang,20-09-2022 12:28,KUNYIT,10300,1,10300,weekday,Afternoon
+109,Carrefour Semarang,20-09-2022 12:28,SOUP,7200,5,36000,weekday,Afternoon
+110,Plaza Ambarukmo,20-09-2022 13:52,SPINACH,4000,5,20000,weekday,Afternoon
+110,Plaza Ambarukmo,20-09-2022 13:52,SPINACH,3300,5,16500,weekday,Afternoon
+110,Plaza Ambarukmo,20-09-2022 13:52,LETTUCE,34200,3,102600,weekday,Afternoon
+110,Plaza Ambarukmo,20-09-2022 13:52,SELADA,32700,1,32700,weekday,Afternoon
+110,Plaza Ambarukmo,20-09-2022 13:52,DAUN BAWANG BESAR,19300,2,38600,weekday,Afternoon
+110,Plaza Ambarukmo,20-09-2022 13:52,SELEDRI KECIL,17900,1,17900,weekday,Afternoon
+111,Plaza Ambarukmo,20-09-2022 13:11,PETERSELI,75000,1,75000,weekday,Afternoon
+111,Plaza Ambarukmo,20-09-2022 13:11,LOOSE GRANOLA POTATO,19000,10,190000,weekday,Afternoon
+111,Plaza Ambarukmo,20-09-2022 13:11,TIMUN,18000,2,36000,weekday,Afternoon
+111,Plaza Ambarukmo,20-09-2022 13:11,JAGUNG,9100,5,45500,weekday,Afternoon
+111,Plaza Ambarukmo,20-09-2022 13:11,TERUNG,14800,2,29600,weekday,Afternoon
+111,Plaza Ambarukmo,20-09-2022 13:11,JERUK,21000,2,42000,weekday,Afternoon
+111,Plaza Ambarukmo,20-09-2022 13:11,TERUNG,24300,2,48600,weekday,Afternoon
+111,Plaza Ambarukmo,20-09-2022 13:11,KOL,13800,3,41400,weekday,Afternoon
+112,Plaza Ambarukmo,20-09-2022 12:12,KOL,35000,2,70000,weekday,Afternoon
+112,Plaza Ambarukmo,20-09-2022 12:12,SAWI,9000,3,27000,weekday,Afternoon
+112,Plaza Ambarukmo,20-09-2022 12:12,BROKOLI,28600,2,57200,weekday,Afternoon
+112,Plaza Ambarukmo,20-09-2022 12:12,TOGE KECAMBAH,23300,1,23300,weekday,Afternoon
+112,Plaza Ambarukmo,20-09-2022 12:12,KACANG MERAH KUPAS,46100,1,46100,weekday,Afternoon
+112,Plaza Ambarukmo,20-09-2022 12:12,BUNCIS,21800,2,43600,weekday,Afternoon
+112,Plaza Ambarukmo,20-09-2022 12:12,JAGUNG,26500,2,53000,weekday,Afternoon
+113,Plaza Ambarukmo,20-09-2022 13:52,LABU,27000,2,54000,weekday,Afternoon
+113,Plaza Ambarukmo,20-09-2022 13:52,TIMUN,8800,2,17600,weekday,Afternoon
+113,Carrefour Semarang,15-09-2022 11:26,BAYAM,19800,1,9900,weekday,Morning
+113,Carrefour Semarang,15-09-2022 11:26,DAUN KEMANGI,25000,1,12500,weekday,Morning
+113,Carrefour Semarang,15-09-2022 11:26,PAKCHOY,18000,1,18000,weekday,Morning
+113,Carrefour Semarang,15-09-2022 11:26,SPINACH,4000,5,20000,weekday,Morning
+113,Carrefour Semarang,15-09-2022 11:26,SPINACH,3300,4,13200,weekday,Morning
+113,Carrefour Semarang,15-09-2022 11:26,LABU,4200,3,12600,weekday,Morning
+114,Carrefour Semarang,15-09-2022 10:16,DAUN KACANG BY PCS,2500,3,7500,weekday,Morning
+114,Carrefour Semarang,15-09-2022 10:16,GENJER,2000,3,6000,weekday,Morning
+114,Carrefour Semarang,15-09-2022 10:16,DAUN SINGKONG BY PCS,2100,3,6300,weekday,Morning
+114,Carrefour Semarang,15-09-2022 10:16,DAUN KENIKIR BY PCS,2600,3,7800,weekday,Morning
+114,Carrefour Semarang,15-09-2022 10:16,GENJER,1900,3,5700,weekday,Morning
+114,Carrefour Semarang,15-09-2022 10:16,LETTUCE,34200,1,34200,weekday,Morning
+114,Carrefour Semarang,15-09-2022 10:16,SELADA,2800,3,8400,weekday,Morning
+115,Carrefour Semarang,15-09-2022 11:26,DAUN BAWANG BESAR,19300,1,19300,weekday,Morning
+115,Carrefour Semarang,15-09-2022 11:26,PAKCHOY MINI,21400,2,42800,weekday,Morning
+115,Carrefour Semarang,15-09-2022 11:26,WORTEL,15700,1,15700,weekday,Morning
+115,Carrefour Semarang,15-09-2022 11:26,JAMUR TIRAM PUTIH,22700,2,45400,weekday,Morning
+115,Carrefour Semarang,15-09-2022 11:26,PAPRIKA,85000,1,85000,weekday,Morning
+115,Carrefour Semarang,15-09-2022 11:26,PAPRIKA,85000,1,85000,weekday,Morning
+116,Carrefour Semarang,15-09-2022 10:26,TIMUN,7600,1,7600,weekday,Morning
+116,Carrefour Semarang,15-09-2022 10:26,TOMAT,31000,1,31000,weekday,Morning
+116,Carrefour Semarang,15-09-2022 10:26,PARE,10800,1,10800,weekday,Morning
+116,Carrefour Semarang,15-09-2022 10:26,TERUNG,14800,2,29600,weekday,Morning
+116,Carrefour Semarang,15-09-2022 10:26,TERUNG,13000,1,13000,weekday,Morning
+116,Carrefour Semarang,15-09-2022 10:26,TOMAT,18400,3,55200,weekday,Morning
+116,Carrefour Semarang,15-09-2022 10:26,KOL,42000,1,42000,weekday,Morning
+116,Carrefour Semarang,15-09-2022 10:26,KOL,13800,1,13800,weekday,Morning
+116,Carrefour Semarang,15-09-2022 10:26,BROKOLI,28600,3,85800,weekday,Morning
+116,Carrefour Semarang,15-09-2022 10:26,LONG SPROUT,16300,1,16300,weekday,Morning
