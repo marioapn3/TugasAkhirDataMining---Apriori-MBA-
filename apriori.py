@@ -115,7 +115,6 @@ st.sidebar.markdown("This is a web app to show the implementation of Market Bask
 st.sidebar.header("Contact", anchor="center")
 st.sidebar.markdown("If you have any questions, feel free to contact me:")
 st.sidebar.markdown("Email : mario.aprilnino27@gmail.com")
-st.sidebar.markdown("LinkedIn: https://www.linkedin.com/in/mario-aprilnino-625557217")
 st.sidebar.markdown("Personal Website: https://marioapn3.github.io/")
 
 
