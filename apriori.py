@@ -121,7 +121,7 @@ st.sidebar.markdown("Personal Website: https://marioapn3.github.io/")
 
 st.sidebar.header("Source Code", anchor="center")
 st.sidebar.markdown("You can see the source code at:")
-st.sidebar.markdown("Github: ")
+st.sidebar.markdown("Github: https://github.com/marioapn3/TugasAkhirDataMining---Apriori-MBA- ")
 
 # Panggil fungsi apriori_rule()
 result_rules = apriori_rule()
