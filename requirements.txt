@@ -4,3 +4,4 @@ numpy
 matplotlib
 seaborn
 mlxtend
+streamlit_option_menu==0.3.2
