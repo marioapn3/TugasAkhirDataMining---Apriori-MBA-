@@ -206,8 +206,8 @@ if selected == "Visualize":
     st.pyplot(plt)
 
     # Visualisasi Jumlah Permintaan Barang per Toko tiap jam
-    st.subheader("Visualisasi Jumlah Permintaan Barang per Toko tiap Hari")
-    st.write('Dataframe yang sudah dipreprocessing menggunakan model apriori menghasilkan 10 aturan asosiasi dari data yang sudah diolah dan ditampilkan di bawah ini : ')
+    st.subheader("Visualisasi Jumlah Permintaan Barang per Toko tiap Jam")
+    st.write('Dataframe yang digunakan untuk visualisasi adalah jumlah permintaan barang per toko tiap jam nya yang request / diminta oleh setiap toko Transmart kepada VeegeFresh yang ada di Indonesia')
 
     data_perhour = data.groupby('hour')['Transaction'].count()
 
