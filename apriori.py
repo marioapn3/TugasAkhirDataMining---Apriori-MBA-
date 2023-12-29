@@ -20,7 +20,7 @@ selected = option_menu(
 
 )
 # Baca Dataset
-df = pd.read_csv('DataSets.csv')
+df = pd.read_csv('Invoice Transmart Veege Fresh .csv')
 # Mengubah format tanggal menjadi datetime
 df['date_time'] = pd.to_datetime(df['date_time'], format="%d-%m-%Y %H:%M")
 # Membuat kolom bulan dan hari
@@ -35,6 +35,7 @@ df['day'].replace([i for i in range(6 + 1)],
                  ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
                  inplace=True)
 
+# Fungsi untuk mendapatkan data berdasarkan kriteria yang dipilih
 def get_data(period_day='', weekday_weekend='', month='', day=''):
     data = df.copy()
     filtered = data.loc[
@@ -42,18 +43,24 @@ def get_data(period_day='', weekday_weekend='', month='', day=''):
         (data['day'].str.contains(day.title()))
     ]
     return filtered if filtered.shape[0] else 'No Result'
+
+# Fungsi untuk mengubah angka menjadi 1 dan 0
 def hot_encode(x):
     return 1 if x >= 1 else 0
 
+# Fungsi untuk mendapatkan user input
 def user_input_features():
     item = st.selectbox('Item', df['Item'].unique())
     month = st.select_slider('Month', df['month'].unique())
     day = st.select_slider('Day', df['day'].unique(), value="Saturday")
     return item, month, day
+
+# Fungsi untuk mendapatkan rekomendasi item
 def parse_list(x):
     x = list(x)
     return x[0] if len(x) == 1 else ", ".join(x)
 
+# Fungsi untuk mendapatkan rekomendasi item
 def return_item_df(items_antecedents):
     data = rules[["antecedents", "consequents"]].copy()
     data["antecedents"] = data["antecedents"].apply(parse_list)
@@ -65,6 +72,8 @@ def return_item_df(items_antecedents):
         return list(filtered_data.iloc[0, :])
     else:
         return None
+
+
 def apriori_rule():
     """
     Applies the Apriori algorithm to find frequent itemsets and association rules.
@@ -156,8 +165,6 @@ if selected == "Visualize":
     st.pyplot(plt)
     # END 10 ITEM TERBANYAK
 
-
-
     # Visualisasi Jumlah Permintaan Barang per Toko tiap Bulan
     st.subheader("Visualisasi Jumlah Permintaan Barang per Toko tiap Bulan")
     st.write('Dataframe yang digunakan untuk visualisasi adalah jumlah permintaan barang per toko tiap bulan yang request / diminta oleh setiap toko Transmart kepada VeegeFresh yang ada di Indonesia')
@@ -226,10 +233,9 @@ if selected == "Visualize":
 
 if selected == "Rules":
 
-    # Panggil fungsi apriori_rule()
+    # Memanggil Fungsi untuk menampilkan 10 association rules teratas dari data yang sudah diolah
     result_rules = apriori_rule()
 
-    # Tampilkan hasil di Streamlit
     st.subheader("Top 10 Association Rules:")
     st.write('Dataframe yang digunakan sudah melalui tahap preprocessing dan sudah menggunakan model apriori untuk menghasilkan 10 association rules dari data yang sudah diolah dan di pakai menggunakan model algoritma apriori')
     st.dataframe(result_rules)
