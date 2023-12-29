@@ -73,7 +73,6 @@ def return_item_df(items_antecedents):
     else:
         return None
 
-
 def apriori_rule():
     """
     Applies the Apriori algorithm to find frequent itemsets and association rules.
@@ -97,7 +96,35 @@ def apriori_rule():
     rules.sort_values('support', ascending=False, inplace=True)
     return rules.head(10)
 
+def custom_apriori_rule(custom_support, custom_confidence):
+    """
+    Applies the Apriori algorithm to find frequent itemsets and association rules.
 
+    Args:
+        custom_support (float): Custom support value from the Streamlit slider.
+        custom_confidence (float): Custom confidence value from the Streamlit slider.
+
+    Returns:
+        pandas.DataFrame: The top 10 association rules sorted by support in descending order.
+        The DataFrame contains the following columns: antecedents, consequents, support, confidence, lift.
+    """
+    item_count = df.groupby(["Transaction", "Item"])["Item"].count().reset_index(name="Count")
+    item_count_pivot = item_count.pivot_table(index="Transaction", columns="Item", values='Count', aggfunc='sum').fillna(0)
+    item_count_pivot = item_count_pivot.astype("int32")
+    item_count_pivot = item_count_pivot.applymap(hot_encode)
+
+    frequent_itemsets = apriori(item_count_pivot, min_support=custom_support, use_colnames=True)
+
+    if frequent_itemsets.empty:
+        return None
+
+    metric = "lift"
+    min_threshold = 1
+    rules = association_rules(frequent_itemsets, metric=metric, min_threshold=min_threshold)[
+        ["antecedents", "consequents", "support", "confidence", "lift"]]
+    rules.sort_values('support', ascending=False, inplace=True)
+    rules = rules[rules["confidence"] >= custom_confidence]
+    return rules.head(10)
 # Halaman Home
 if selected == "Home":
 
@@ -232,9 +259,13 @@ if selected == "Visualize":
     st.pyplot(plt)
 
 if selected == "Rules":
+    # Membuat slider untuk custom support
+    custom_support = st.slider('Custom Support', 0.0, 1.0, 0.01)
 
+    # Membuat slider untuk custom confidence
+    custom_confidence = st.slider('Custom Confidence', 0.0, 1.0, 0.01)
     # Memanggil Fungsi untuk menampilkan 10 association rules teratas dari data yang sudah diolah
-    result_rules = apriori_rule()
+    result_rules = custom_apriori_rule(custom_support, custom_confidence)
 
     st.subheader("Top 10 Association Rules:")
     st.write('Dataframe yang digunakan sudah melalui tahap preprocessing dan sudah menggunakan model apriori untuk menghasilkan 10 association rules dari data yang sudah diolah dan di pakai menggunakan model algoritma apriori')
